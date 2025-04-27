@@ -16,10 +16,4 @@
 
 ---
 
-## 📫 How to Reach Me
-- **Email:** [yuval.sadot@gmail.com]
-- **LinkedIn:** [linkedin.com/in/yuval-sadot](https://www.linkedin.com/in/yuval-sadot/)
-
----
-
-Feel free to explore my projects and connect with me!
+🙋🏻‍♂️ Feel free to explore my projects and connect with me!
